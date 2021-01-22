@@ -191,14 +191,3 @@ $("#remove-tasks").on("click", function() {
 loadTasks();
 
 
-
-
-
-
-
-
-list-done
-list-inReview
-list-inProgress
-
-
